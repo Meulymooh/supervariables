@@ -1,0 +1,182 @@
+/* General styling */
+
+body {
+background-color: #e6e6e6;
+}
+
+h1 {
+	font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+	font-family: 'Roboto', sans-serif;	
+}
+
+h3 {
+	font-family: 'Roboto', sans-serif;	
+}
+
+h4 {
+	font-family: 'Roboto', sans-serif;	
+	margin-right: 10px;
+}
+
+p {
+	margin-right: 10px;
+	display: inline-block;
+	font-family: 'Roboto', sans-serif;
+}
+
+.oneLine {
+	display: inline-block;
+}
+
+/* Setup page */
+
+.container-fluid {
+	width: 80%;
+	align-content: center;
+	margin: auto;
+}
+
+.col {
+	border: 1px solid grey;
+	padding: 20px;
+	margin: 5px;
+	height: 250px;
+	background-color: white;
+}
+
+#intro {
+	margin-top: 20px;
+	margin-bottom: 40px;
+}
+
+.instructions {
+	margin-bottom: 10px;
+	margin-left: 15px;	
+}
+
+#container {
+	margin-left: 20px;
+}
+
+#form_1 {
+	margin-top: 20px;
+	margin-left: 15px;
+}
+
+#input_tv {
+	margin-bottom: 15px;
+	display: inline-block;
+}
+
+#input_movies {
+	margin-bottom: 15px;
+	display: inline-block;
+}
+
+#button_1 {
+	margin-top: 15px;
+	margin-left: 15px;
+}
+
+#form_2 {
+	margin-top: 20px;
+	margin-left: 15px;
+}
+
+#input_country {
+	margin-bottom: 15px;
+	display: inline-block;
+}
+
+#input_worstMovie {
+	margin-bottom: 15px;
+	display: inline-block;
+}
+
+#button_2 {
+	margin-top: 15px;
+}
+
+#file {
+	margin-top: 15px;
+	margin-left: 15px;
+}
+
+#button_3 {
+	margin-top: 15px;
+	margin-left: 15px;
+}
+
+#cookie {
+	margin-top: 15px;
+	margin-left: 15px;
+}
+
+#button_4 {
+	margin-top: 15px;
+	margin-left: 15px;
+}
+
+#server {
+	margin-top: 15px;
+	margin-left: 15px;
+}
+
+#button_5 {
+	margin-top: 15px;
+	margin-left: 15px;
+}
+
+#environment {
+	margin-top: 15px;
+	margin-left: 15px;
+}
+
+#button_6 {
+	margin-top: 15px;
+	margin-left: 15px;
+}
+
+/* Result page */
+
+.instructions2 {
+	margin-bottom: 30px;
+	margin-left: 15px;	
+}
+
+#image {
+	width: 50%;
+	height: 50%;
+	margin-top: 20px;
+}
+
+.menu {
+	border: 1px solid grey;
+	width: 80%;
+	padding: 20px;
+	margin: 5px;
+	background-color: white;
+}
+
+.answerTitle {
+	margin-bottom: 30px;
+}
+
+/*Form */
+
+.wrapper {
+	width: 20%;
+	align-content: center;
+	margin: auto;
+}
+
+.form-signin {
+	margin-top: 40px;
+}
+
+.form-control {
+	margin-bottom: 10px;
+}
